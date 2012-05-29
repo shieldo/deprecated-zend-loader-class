@@ -1,0 +1,9 @@
+{
+    "name": "markup/deprecated-zend-loader-class",
+    "description": "Provides the deprecated class \\Zend\\Loader from Zend Framework 2 - not available in the zendframework/zend-loader package",
+    "keywords": ["zend", "loader", "deprecated", "missing"],
+    "licence": "BSD-3-Clause",
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
